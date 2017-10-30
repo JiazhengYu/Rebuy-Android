@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yujiazheng/.android/build-cache/8d594b1de9ad135d86df3cc80ed0270798dd6a9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="374d595ee099a19b6c1c3718cdb4c345be7a3d45">
+        <dex dex="/Users/yujiazheng/Documents/SEPGIT/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fa998bf0318a4b31a76921b07a3e302caee92ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yujiazheng/Documents/SEPGIT/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2176531304fabb7891c02f471676d42c2d9f67ca">
+        <dex dex="/Users/yujiazheng/Documents/SEPGIT/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_899b9790f6895ea84dbdd92df0568bafd23c5820/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yujiazheng/Documents/SEPGIT/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yujiazheng/Documents/SEPGIT/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4a77736c184bf6bea5c84099b8fc0f61b6cc5bca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yujiazheng/.android/build-cache/9e7ea09eaf417e6f0eac6b96507729f597116e91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/yujiazheng/Documents/SEPGIT/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3266abe75083ae331e82c927c2c1217aa2ad89dc/classes.dex" />
+    </item>
+
+</items>
